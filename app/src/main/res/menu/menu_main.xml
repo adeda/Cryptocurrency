@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="enizneziric.cryptocurrency.MainActivity">
+
+    <item
+        android:id="@+id/eur"
+        android:orderInCategory="200"
+        android:title="@string/eur"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cny"
+        android:orderInCategory="200"
+        android:title="@string/cny"
+        app:showAsAction="never" />
+
+</menu>

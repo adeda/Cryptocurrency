@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="all_cuttency">All Currency</string>
+    <string name="details">Details</string>
+    <string name="eur">EUR</string>
+    <string name="usd">USD</string>
+    <string name="cny">CNY</string>
+</resources>
